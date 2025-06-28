@@ -1,0 +1,5 @@
+Alice vs Bob => Alice
+Charlie vs Diana => Charlie
+Alice vs Bob => Alice
+Charlie vs Diana => Diana
+Alice vs Diana => Diana
